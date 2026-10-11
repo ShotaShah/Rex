@@ -2,9 +2,9 @@
 
 Rex is a lexical analyzer generator, similar to Lex/Flex for C. 
 
-It reads a lexical specification file and generates source code for a program that performs lexical analysis according to the specified rules.
+It reads a lexical specification file and generates code that performs lexical analysis according to the specified rules.
 
-Rex currently supports only Haskell, with support for other languages planned. 
+Rex currently supports only Haskell code generation, with support for other languages planned.
 
 
 ## Features
