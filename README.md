@@ -1,6 +1,6 @@
 # Rex
 
-Rex is a lexical analyzer generator for multiple programming languages, similar to Lex/Flex for C, or Alex for Haskell.
+Rex is a lexical analyzer generator, similar to Lex/Flex for C. 
 
 It reads a lexical specification file and generates source code for a program that performs lexical analysis according to the specified rules.
 
